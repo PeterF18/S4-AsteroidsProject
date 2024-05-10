@@ -29,9 +29,7 @@ public class EnemyProcessor implements IEntityProcessingService {
 
             if (rand.nextDouble() < shootingChance) {
                 getBulletSPIs().stream().findFirst().ifPresent(
-                        spi -> {
-                            world.addEntity(spi.createBullet(enemy, gameData));
-                        }
+                        spi -> {world.addEntity(spi.createBullet(enemy, gameData));}
                 );
             }
 
