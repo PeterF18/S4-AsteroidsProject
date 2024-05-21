@@ -1,5 +1,4 @@
-Build the project from the root folder with the following Maven command:
-mvn clean install
+All labs are part of the main-branch
+Moving from JPMSlab3 to SpringLab, some previous code has been commented out in the Game.java file found in the Core module
 
-Run the project from root folder with following Maven command :
-mvn exec:exec
+The other branches were created for personal use.
