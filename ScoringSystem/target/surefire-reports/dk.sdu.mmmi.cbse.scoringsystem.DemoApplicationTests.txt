@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: dk.sdu.mmmi.cbse.scoringsystem.DemoApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.453 s -- in dk.sdu.mmmi.cbse.scoringsystem.DemoApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.794 s -- in dk.sdu.mmmi.cbse.scoringsystem.DemoApplicationTests

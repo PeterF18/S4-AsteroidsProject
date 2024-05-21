@@ -1,0 +1,4 @@
+--patch-module
+CollisionDetection=_
+--add-reads
+CollisionDetection=ALL-UNNAMED
